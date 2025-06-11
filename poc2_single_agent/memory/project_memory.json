@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "name": "",
+    "stack": "",
+    "team_size": 0,
+    "client": "",
+    "started_at": "",
+    "status": "not_started"
+  },
+  "user_stories": [],
+  "sprints": [],
+  "stakeholders": [],
+  "project_learnings": {
+    "successful_patterns": [],
+    "challenges_faced": [],
+    "decisions_made": [
+      {
+        "timestamp": "2025-06-09T20:48:24Z",
+        "task": "I need a dashboard to track team productivity metrics",
+        "task_type": "Requirements Analysis",
+        "approach_used": "Start with user problem understanding, ask clarifying questions",
+        "outcome": "initial_capture_complete",
+        "insights": [
+          "Foundation wisdom applied successfully",
+          "Memory system working"
+        ]
+      },
+      {
+        "timestamp": "2025-06-09T22:02:53Z",
+        "task": "I need user authentication for my web app",
+        "task_type": null,
+        "approach_used": null,
+        "outcome": "analyzed",
+        "insights": [
+          "Foundation wisdom applied successfully",
+          "Memory system working"
+        ]
+      }
+    ],
+    "retrospective_insights": []
+  }
+}

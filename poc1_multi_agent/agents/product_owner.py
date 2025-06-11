@@ -21,7 +21,9 @@ class ProductOwnerAgent:
     
     def load_dotenv(self):
         """Load environment variables from .env file"""
-        load_dotenv()
+        # Load from root project directory
+        root_env_path = Path(__file__).parent.parent.parent / '.env'
+        load_dotenv(root_env_path)
         self.api_key = os.getenv('ANTHROPIC_API_KEY')
         if not self.api_key:
             raise ValueError("No se encontró ANTHROPIC_API_KEY en el archivo .env")
