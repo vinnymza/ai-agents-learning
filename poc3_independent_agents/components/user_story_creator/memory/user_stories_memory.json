@@ -1,0 +1,66 @@
+{
+  "project_context": {
+    "name": "",
+    "description": "",
+    "created_at": "2025-06-11T22:37:57.899529"
+  },
+  "user_stories": [
+    {
+      "story_id": "US001",
+      "title": "Create Chatbot for Customer Support",
+      "description": "As a customer, I want to interact with a chatbot so that I can get quick answers to my questions and resolve issues efficiently",
+      "user_type": "customer",
+      "priority": "high",
+      "acceptance_criteria": [
+        "Chatbot can understand and respond to common customer inquiries about products, services, and account information",
+        "Chatbot can provide accurate and up-to-date information to customers",
+        "Chatbot can seamlessly transfer customers to a live agent if needed",
+        "Chatbot has a friendly and conversational tone that provides a positive user experience",
+        "Chatbot can handle multiple concurrent conversations without performance degradation",
+        "Chatbot can be easily integrated into the company's website and mobile app"
+      ],
+      "status": "draft",
+      "created_at": "2025-06-11T22:40:29.103788",
+      "updated_at": "2025-06-11T22:40:29.103801",
+      "estimated_points": null,
+      "tags": [],
+      "related_requirements": []
+    },
+    {
+      "story_id": "US002",
+      "title": "Create Sales Chatbot",
+      "description": "As a sales representative, I want a chatbot that can engage with customers so that I can provide better sales support and increase conversions.",
+      "user_type": "sales representative",
+      "priority": "high",
+      "acceptance_criteria": [
+        "Chatbot can greet customers and ask qualifying questions to understand their needs",
+        "Chatbot can provide relevant product information and recommendations based on customer responses",
+        "Chatbot can schedule a call or meeting with a sales representative if the customer is interested in making a purchase",
+        "Chatbot can handle common sales-related inquiries and provide accurate, up-to-date information",
+        "Chatbot can seamlessly transfer the conversation to a live sales representative if the customer requests to speak with a human",
+        "Chatbot can track and report on key metrics such as number of conversations, conversion rate, and customer satisfaction"
+      ],
+      "status": "draft",
+      "created_at": "2025-06-11T22:41:05.666415",
+      "updated_at": "2025-06-11T22:41:05.666425",
+      "estimated_points": null,
+      "tags": [],
+      "related_requirements": []
+    }
+  ],
+  "story_templates": {
+    "default": "As a {user_type}, I want {functionality} so that {benefit}",
+    "system": "As a system, I need {functionality} so that {benefit}",
+    "stakeholder": "As a {stakeholder_type}, I want {functionality} so that {business_value}"
+  },
+  "metadata": {
+    "total_stories": 2,
+    "stories_by_status": {
+      "draft": 2,
+      "ready": 0,
+      "in_progress": 0,
+      "completed": 0
+    },
+    "last_updated": "2025-06-11T22:41:05.666435"
+  }
+}

@@ -1,0 +1,24 @@
+# Requirements to User Stories Agent - PoC3 Independent Agents
+# Dependencies for transforming requirements into professional user stories
+
+# Core AI integration
+anthropic>=0.25.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# JSON handling (built-in, but documented for clarity)
+# json - built-in Python module
+
+# File system operations (built-in, but documented for clarity)  
+# pathlib - built-in Python module
+# os - built-in Python module
+
+# Date and time handling (built-in, but documented for clarity)
+# datetime - built-in Python module
+
+# Type hints (built-in, but documented for clarity)
+# typing - built-in Python module
+
+# Command line argument parsing (built-in, but documented for clarity)
+# argparse - built-in Python module
