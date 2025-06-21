@@ -1,0 +1,64 @@
+{
+  "aggregated": {
+    "total_input_tokens": 769,
+    "total_output_tokens": 278,
+    "total_cost": 0.0005397500000000001,
+    "total_messages": 2,
+    "models_used": {
+      "claude-3-haiku-20240307": {
+        "input_tokens": 769,
+        "output_tokens": 278,
+        "cost": 0.0005397500000000001,
+        "messages": 2
+      }
+    },
+    "created_at": "2025-06-21T15:43:28.103334",
+    "last_updated": "2025-06-21T15:44:34.535056"
+  },
+  "projects": {
+    "coco": {
+      "total_input_tokens": 769,
+      "total_output_tokens": 278,
+      "total_cost": 0.0005397500000000001,
+      "total_messages": 2,
+      "models_used": {
+        "claude-3-haiku-20240307": {
+          "input_tokens": 769,
+          "output_tokens": 278,
+          "cost": 0.0005397500000000001,
+          "messages": 2
+        }
+      },
+      "created_at": "2025-06-21T15:44:04.293571",
+      "last_updated": "2025-06-21T15:44:34.535056"
+    }
+  },
+  "detailed_logs": [
+    {
+      "timestamp": "2025-06-21T15:44:04.293571",
+      "project": "coco",
+      "model": "claude-3-haiku-20240307",
+      "input_tokens": 363,
+      "output_tokens": 102,
+      "total_tokens": 465,
+      "input_cost": 9.075e-05,
+      "output_cost": 0.0001275,
+      "total_cost": 0.00021825000000000002,
+      "user_message_length": 4,
+      "assistant_response_length": 297
+    },
+    {
+      "timestamp": "2025-06-21T15:44:34.535056",
+      "project": "coco",
+      "model": "claude-3-haiku-20240307",
+      "input_tokens": 406,
+      "output_tokens": 176,
+      "total_tokens": 582,
+      "input_cost": 0.0001015,
+      "output_cost": 0.00022,
+      "total_cost": 0.0003215,
+      "user_message_length": 31,
+      "assistant_response_length": 630
+    }
+  ]
+}

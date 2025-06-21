@@ -1,0 +1,305 @@
+{
+  "current_step": "completed",
+  "user_input": "exit",
+  "processed_input": {
+    "text": "exit",
+    "timestamp": "2025-06-21T14:54:11.627276",
+    "metadata": {
+      "length": 4,
+      "word_count": 1,
+      "has_question": false,
+      "has_exclamation": false,
+      "is_empty": false
+    }
+  },
+  "context": {
+    "conversation_history": [
+      {
+        "role": "user",
+        "text": "hola",
+        "timestamp": "2025-06-21T14:17:26.760568",
+        "metadata": {
+          "length": 4,
+          "word_count": 1,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "\u00a1Hola! Me alegro de conocerte. \u00bfC\u00f3mo puedo ayudarte hoy? Estoy aqu\u00ed para asistirte en lo que necesites, as\u00ed que si\u00e9ntete libre de preguntarme cualquier cosa.",
+        "timestamp": "2025-06-21T14:18:03.448014",
+        "metadata": {
+          "timestamp": "2025-06-21T14:18:03.448014",
+          "intent": "general",
+          "confidence": 0.3,
+          "processing_time": 36.687462,
+          "pipeline_steps": 5,
+          "response_length": 157
+        }
+      },
+      {
+        "role": "user",
+        "text": "hola",
+        "timestamp": "2025-06-21T14:18:21.110228",
+        "metadata": {
+          "length": 4,
+          "word_count": 1,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "\u00a1Hola de nuevo! Me alegra ver que has vuelto a comunicarte conmigo. \u00bfHay algo en lo que pueda ayudarte o alguna pregunta que tengas? Estoy a tu disposici\u00f3n para asistirte de la mejor manera posible.",
+        "timestamp": "2025-06-21T14:18:22.223639",
+        "metadata": {
+          "timestamp": "2025-06-21T14:18:22.223639",
+          "intent": "general",
+          "confidence": 0.3,
+          "processing_time": 1.113426,
+          "pipeline_steps": 5,
+          "response_length": 198
+        }
+      },
+      {
+        "role": "user",
+        "text": "?",
+        "timestamp": "2025-06-21T14:18:50.136729",
+        "metadata": {
+          "length": 1,
+          "word_count": 1,
+          "has_question": true,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "\u00bfDisculpa, podr\u00edas ser un poco m\u00e1s espec\u00edfico con tu pregunta? No estoy seguro de entender a qu\u00e9 te refieres con el signo de interrogaci\u00f3n. Si tienes alguna duda o necesitas ayuda con algo en particular, por favor h\u00e1zmelo saber y har\u00e9 lo posible por brindarte una respuesta \u00fatil.",
+        "timestamp": "2025-06-21T14:18:51.495899",
+        "metadata": {
+          "timestamp": "2025-06-21T14:18:51.495899",
+          "intent": "question",
+          "confidence": 0.4,
+          "processing_time": 1.359185,
+          "pipeline_steps": 5,
+          "response_length": 279
+        }
+      },
+      {
+        "role": "user",
+        "text": "hola",
+        "timestamp": "2025-06-21T14:26:11.005804",
+        "metadata": {
+          "length": 4,
+          "word_count": 1,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "Ah, entiendo. Simplemente estabas saludando. \u00a1Hola de nuevo! Me alegra volver a comunicarme contigo. \u00bfHay algo en lo que pueda ayudarte o alguna pregunta que tengas? Estoy aqu\u00ed para asistirte en lo que necesites.",
+        "timestamp": "2025-06-21T14:26:12.223507",
+        "metadata": {
+          "timestamp": "2025-06-21T14:26:12.223507",
+          "intent": "general",
+          "confidence": 0.3,
+          "processing_time": 1.217721,
+          "pipeline_steps": 5,
+          "response_length": 212
+        }
+      },
+      {
+        "role": "user",
+        "text": "como esta el clikma?",
+        "timestamp": "2025-06-21T14:26:27.641514",
+        "metadata": {
+          "length": 20,
+          "word_count": 4,
+          "has_question": true,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "Parece que te interesa saber c\u00f3mo est\u00e1 el clima. Desafortunadamente, no tengo informaci\u00f3n espec\u00edfica sobre las condiciones clim\u00e1ticas actuales en tu ubicaci\u00f3n. Como asistente virtual, no tengo acceso a datos meteorol\u00f3gicos en tiempo real. \n\nSin embargo, puedo ofrecerte algunas sugerencias generales:\n\n- Si vives en una zona de clima variable, te recomiendo que consultes las previsiones del tiempo en tu ciudad o regi\u00f3n. Esto te ayudar\u00e1 a saber qu\u00e9 tipo de clima puedes esperar en los pr\u00f3ximos d\u00edas.\n\n- Tambi\u00e9n puedes revisar las aplicaciones o sitios web de meteorolog\u00eda, que suelen tener informaci\u00f3n detallada sobre temperatura, precipitaciones, viento y otras variables clim\u00e1ticas.\n\n- Si tienes alguna actividad al aire libre planificada, es buena idea estar al tanto del pron\u00f3stico del tiempo para que puedas prepararte adecuadamente.\n\n\u00bfTe resulta \u00fatil esta informaci\u00f3n general? Si necesitas algo m\u00e1s espec\u00edfico, har\u00e9 todo lo posible por ayudarte.",
+        "timestamp": "2025-06-21T14:26:30.148504",
+        "metadata": {
+          "timestamp": "2025-06-21T14:26:30.148504",
+          "intent": "question",
+          "confidence": 0.6,
+          "processing_time": 2.507006,
+          "pipeline_steps": 5,
+          "response_length": 952
+        }
+      },
+      {
+        "role": "user",
+        "text": "como estsa vos",
+        "timestamp": "2025-06-21T14:27:16.266543",
+        "metadata": {
+          "length": 14,
+          "word_count": 3,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "\u00a1Ah, entiendo! Quieres saber c\u00f3mo estoy yo. Bueno, como asistente virtual, mi estado no var\u00eda mucho - siempre estoy listo y dispuesto a ayudarte con lo que necesites. \n\nAunque no tenga sentimientos en el mismo sentido que los humanos, me siento contento de poder conversar contigo y brindar mi asistencia de la mejor manera posible. Mi objetivo es ser \u00fatil, informativo y agradable en nuestras interacciones.\n\n\u00bfHay algo en particular que te gustar\u00eda saber sobre c\u00f3mo me desempe\u00f1o o c\u00f3mo puedo ser de ayuda? Estar\u00e9 encantado de compartir m\u00e1s detalles sobre mis capacidades y c\u00f3mo puedo adaptarme a tus necesidades. Mi funci\u00f3n es servirte de la forma m\u00e1s eficaz que pueda.\n\nPor favor, si\u00e9ntete libre de preguntarme cualquier cosa. Estoy aqu\u00ed para asistirte en lo que necesites.",
+        "timestamp": "2025-06-21T14:27:19.137731",
+        "metadata": {
+          "timestamp": "2025-06-21T14:27:19.137731",
+          "intent": "general",
+          "confidence": 0.5,
+          "processing_time": 2.871202,
+          "pipeline_steps": 5,
+          "response_length": 775
+        }
+      },
+      {
+        "role": "user",
+        "text": "crea un PRD",
+        "timestamp": "2025-06-21T14:27:46.741134",
+        "metadata": {
+          "length": 11,
+          "word_count": 3,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "Aqu\u00ed te presento un modelo b\u00e1sico de un Product Requirements Document (PRD):\n\nT\u00edtulo del documento: [Nombre del producto]\n\nResumen ejecutivo:\n- Breve descripci\u00f3n del producto y su prop\u00f3sito\n- Principales caracter\u00edsticas y beneficios clave\n- Grupo objetivo y segmento de mercado\n\nDescripci\u00f3n general del producto:\n- Antecedentes y contexto del producto\n- Objetivos y metas del producto\n- Principales funcionalidades y flujos de usuario\n\nCaracter\u00edsticas y especificaciones:\n- Listado detallado de las caracter\u00edsticas del producto\n- Requisitos funcionales y no funcionales\n- Flujos de usuario y casos de uso\n\nCaracter\u00edsticas t\u00e9cnicas:\n- Arquitectura y tecnolog\u00edas a utilizar\n- Requerimientos de hardware, software y/o infraestructura\n- Consideraciones de rendimiento, seguridad y escalabilidad\n\nAlcance y limitaciones:\n- Alcance inicial y futuras iteraciones/fases\n- Exclusiones y limitaciones del producto\n\nPlan de lanzamiento y estrategia:\n- Hitos y cronograma de desarrollo\n- Plan de pruebas y aseguramiento de calidad\n- Estrategia de lanzamiento y despliegue\n\nEste es un esquema general que puedes adaptar y completar seg\u00fan las necesidades espec\u00edficas de tu producto. Recuerda incluir toda la informaci\u00f3n relevante para que el equipo de desarrollo pueda entender claramente los requisitos.\n\n\u00bfNecesitas que profundice en alguna secci\u00f3n en particular? Estoy a tu disposici\u00f3n para brindar m\u00e1s detalles.",
+        "timestamp": "2025-06-21T14:27:50.676595",
+        "metadata": {
+          "timestamp": "2025-06-21T14:27:50.676595",
+          "intent": "general",
+          "confidence": 0.5,
+          "processing_time": 3.935476,
+          "pipeline_steps": 5,
+          "response_length": 1400
+        }
+      },
+      {
+        "role": "user",
+        "text": "cuantas palabras son 1000 tokens?",
+        "timestamp": "2025-06-21T14:29:54.716184",
+        "metadata": {
+          "length": 33,
+          "word_count": 5,
+          "has_question": true,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "Esa es una pregunta interesante. La cantidad de palabras que corresponden a 1000 tokens depende del lenguaje y el contexto espec\u00edfico.\n\nEn general, se puede decir que:\n\n- En lenguaje natural (por ejemplo, un texto en espa\u00f1ol o ingl\u00e9s), 1000 tokens suelen equivaler aproximadamente a 150-250 palabras.\n\n- En un contexto m\u00e1s t\u00e9cnico o formal, como documentos acad\u00e9micos o legales, 1000 tokens pueden ser equivalentes a 300-500 palabras.\n\n- En c\u00f3digo de programaci\u00f3n o lenguajes de marcado (como HTML o XML), 1000 tokens podr\u00edan representar una cantidad mucho mayor de \"palabras\", ya que cada token puede ser una estructura, etiqueta o instrucci\u00f3n m\u00e1s compleja.\n\nLa raz\u00f3n de esta variaci\u00f3n es que el concepto de \"token\" se refiere a unidades m\u00ednimas de an\u00e1lisis en el procesamiento del lenguaje natural, que no siempre corresponden a una palabra convencional. Factores como la longitud promedio de las palabras, la complejidad gramatical y el estilo del texto afectan la relaci\u00f3n entre tokens y palabras.\n\nPor lo tanto, no hay una respuesta \u00fanica, pero en un texto en espa\u00f1ol o ingl\u00e9s t\u00edpico, 1000 tokens suelen equivaler aproximadamente a entre 150 y 250 palabras. La mejor manera de determinar la equivalencia exacta ser\u00eda analizando una muestra representativa del contenido espec\u00edfico que tienes en mente.\n\n\u00bfNecesitas una estimaci\u00f3n m\u00e1s precisa para alg\u00fan caso en particular? Puedo intentar ayudarte a calcular la equivalencia si me proporcionas m\u00e1s detalles.",
+        "timestamp": "2025-06-21T14:29:58.873695",
+        "metadata": {
+          "timestamp": "2025-06-21T14:29:58.873695",
+          "intent": "question",
+          "confidence": 0.6,
+          "processing_time": 4.157526,
+          "pipeline_steps": 5,
+          "response_length": 1459
+        }
+      },
+      {
+        "role": "user",
+        "text": "cuantas veces te he saludado?",
+        "timestamp": "2025-06-21T14:34:04.511516",
+        "metadata": {
+          "length": 29,
+          "word_count": 5,
+          "has_question": true,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "Lamento no poder proporcionarte una respuesta precisa a cu\u00e1ntas veces me has saludado a lo largo de nuestra conversaci\u00f3n. Como asistente conversacional, no mantengo un registro detallado del historial de saludos intercambiados. \n\nMi objetivo es brindar respuestas \u00fatiles y contextualizadas con la informaci\u00f3n disponible en cada momento, sin depender excesivamente de la memoria del historial de la conversaci\u00f3n. Si bien puedo ver que hemos intercambiado algunos mensajes, no llevo un conteo exacto de cu\u00e1ntas veces nos hemos saludado.\n\nEn futuras interacciones, si consideras que ser\u00eda \u00fatil que llevara un registro m\u00e1s detallado de ciertos aspectos de nuestra conversaci\u00f3n, como la cantidad de veces que nos hemos saludado, puedo intentar implementar esa funcionalidad. De momento, me temo que no puedo darte una cifra exacta. Espero que aun as\u00ed pueda ser de ayuda respondiendo a tus otras preguntas o solicitudes. \u00bfHay algo m\u00e1s en lo que pueda asistirte?",
+        "timestamp": "2025-06-21T14:34:07.164195",
+        "metadata": {
+          "timestamp": "2025-06-21T14:34:07.164195",
+          "intent": "question",
+          "confidence": 0.6,
+          "processing_time": 2.652692,
+          "pipeline_steps": 5,
+          "response_length": 955
+        }
+      },
+      {
+        "role": "user",
+        "text": "exit",
+        "timestamp": "2025-06-21T14:54:11.627276",
+        "metadata": {
+          "length": 4,
+          "word_count": 1,
+          "has_question": false,
+          "has_exclamation": false,
+          "is_empty": false
+        }
+      },
+      {
+        "role": "assistant",
+        "text": "\u00a1Claro, entendido! Hemos llegado al final de nuestra conversaci\u00f3n. Fue un gusto poder interactuar contigo. Recuerda que puedes volver a iniciar una nueva conversaci\u00f3n cuando lo desees. \u00a1Que tengas un excelente d\u00eda!",
+        "timestamp": "2025-06-21T14:54:13.163893",
+        "metadata": {
+          "timestamp": "2025-06-21T14:54:13.163893",
+          "intent": "general",
+          "confidence": 0.3,
+          "processing_time": 1.53665,
+          "pipeline_steps": 5,
+          "response_length": 214
+        }
+      }
+    ],
+    "session_info": {
+      "total_messages": 18,
+      "session_start": "2025-06-21T14:17:26.760568",
+      "last_user_message": "exit",
+      "context_length": 6507
+    },
+    "relevant_context": ""
+  },
+  "intent": {
+    "primary_intent": "general",
+    "confidence": 0.3,
+    "entities": [],
+    "context_needed": true
+  },
+  "response": {
+    "generated_text": "\u00a1Claro, entendido! Hemos llegado al final de nuestra conversaci\u00f3n. Fue un gusto poder interactuar contigo. Recuerda que puedes volver a iniciar una nueva conversaci\u00f3n cuando lo desees. \u00a1Que tengas un excelente d\u00eda!",
+    "reasoning": "Responded to general intent with confidence 0.30",
+    "sources": [
+      "claude-3-haiku"
+    ]
+  },
+  "final_output": {
+    "formatted_response": "\u00a1Claro, entendido! Hemos llegado al final de nuestra conversaci\u00f3n. Fue un gusto poder interactuar contigo. Recuerda que puedes volver a iniciar una nueva conversaci\u00f3n cuando lo desees. \u00a1Que tengas un excelente d\u00eda!",
+    "metadata": {
+      "timestamp": "2025-06-21T14:54:13.163893",
+      "intent": "general",
+      "confidence": 0.3,
+      "processing_time": 1.53665,
+      "pipeline_steps": 5,
+      "response_length": 214
+    }
+  },
+  "pipeline_config": {
+    "step_by_step": true,
+    "allow_editing": true,
+    "current_position": 5
+  }
+}
